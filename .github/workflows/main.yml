@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Daily News Digest Generator
 Fetches news articles and sports scores from various sources and sends an email digest.
